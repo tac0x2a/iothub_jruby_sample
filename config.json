@@ -1,0 +1,6 @@
+{
+  "connection_string": "<device connection string here>",
+  "options" :{
+    "SetSASTokenExpiryTime" : 10
+  }
+}
